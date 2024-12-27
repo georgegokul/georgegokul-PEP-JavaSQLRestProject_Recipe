@@ -10,8 +10,8 @@
 	<!-- Java version needs to be above 9 and below 22. If using Java version 22 please include Byte
 	Buddy dependency is commented out near the bottom of the file. -->
 	<properties>
-		<maven.compiler.target>21</maven.compiler.target>
-		<maven.compiler.source>21</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<maven.compiler.source>17</maven.compiler.source>
 	</properties>
 	<dependencies>
 		<!--  https://mvnrepository.com/artifact/org.mockito/mockito-core  -->
